@@ -1,0 +1,4 @@
+﻿  SaiMa5.cpp
+d:\c++\saima5\saima5\saima5.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+  SaiMa5.vcxproj -> D:\C++\SaiMa5\Debug\SaiMa5.exe
+  SaiMa5.vcxproj -> D:\C++\SaiMa5\Debug\SaiMa5.pdb (Full PDB)
